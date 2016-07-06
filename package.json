@@ -18,7 +18,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "api": "node api.js",
+    "api": "node server/api.js",
     "build": "webpack",
     "watch": "webpack --watch",
     "dev": "webpack-dev-server --port 3000"
