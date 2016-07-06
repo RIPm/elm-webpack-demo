@@ -1,4 +1,5 @@
 .atom-build.yml
+.gitignore
 dist/*
 elm-stuff/*
 node_modules/*
